@@ -2,6 +2,7 @@
 layout: page
 title: My Projects
 permalink: /projects/
+tags: projects
 ---
 
-Coming Soon
+Arithmetic game: <a href="https://naokieto.github.io/arithmeticGame">https://naokieto.github.io/arithmeticGame</a>
